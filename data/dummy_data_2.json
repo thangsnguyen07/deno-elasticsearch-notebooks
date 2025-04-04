@@ -1,0 +1,27 @@
+[
+  {
+    "message": "A rare document featuring the vital keyword.",
+    "age": 29,
+    "price": 175.5
+  },
+  {
+    "message": "Surprising keyword found deep in the content.",
+    "age": 41,
+    "price": 138.0
+  },
+  {
+    "message": "Important keyword hidden within this snippet.",
+    "age": 33,
+    "price": 112.75
+  },
+  {
+    "message": "Final entry still includes the essential keyword.",
+    "age": 26,
+    "price": 199.9
+  },
+  {
+    "message": "Randomized result: yes, keyword included.",
+    "age": 38,
+    "price": 149.25
+  }
+]
