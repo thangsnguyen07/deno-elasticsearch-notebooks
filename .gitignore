@@ -6,8 +6,9 @@
 /.vscode/
 
 /node_modules
+/elastic-start-local
 
-# .env
+.env
 *.orig
 *.pyc
 *.swp
