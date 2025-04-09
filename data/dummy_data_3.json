@@ -1,0 +1,52 @@
+[
+  {
+    "value": 12.5,
+    "category": "electronics",
+    "description": "High-quality noise-cancelling headphones."
+  },
+  {
+    "value": 99.99,
+    "category": "fashion",
+    "description": "Stylish leather jacket for all seasons."
+  },
+  {
+    "value": 8.75,
+    "category": "books",
+    "description": "A thrilling mystery novel with unexpected twists."
+  },
+  {
+    "value": 149.0,
+    "category": "furniture",
+    "description": "Modern office chair with ergonomic design."
+  },
+  {
+    "value": 25.0,
+    "category": "kitchen",
+    "description": "Stainless steel knife set with wooden block."
+  },
+  {
+    "value": 2.49,
+    "category": "grocery",
+    "description": "Organic almond milk, 1-liter carton."
+  },
+  {
+    "value": 55.55,
+    "category": "sports",
+    "description": "Professional-grade basketball with good grip."
+  },
+  {
+    "value": 300.0,
+    "category": "technology",
+    "description": "Latest smartwatch with health tracking features."
+  },
+  {
+    "value": 15.2,
+    "category": "beauty",
+    "description": "Hydrating facial cream with SPF 30."
+  },
+  {
+    "value": 70.0,
+    "category": "automotive",
+    "description": "Set of all-season car floor mats."
+  }
+]
